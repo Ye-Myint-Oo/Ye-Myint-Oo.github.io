@@ -4,9 +4,16 @@
         <title>Ye's blog Blog</title>
         <link>https://Ye-Myint-Oo.github.io/blog</link>
         <description>Ye's blog Blog</description>
-        <lastBuildDate>Sun, 19 Sep 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Sep 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Certificates]]></title>
+            <link>https://Ye-Myint-Oo.github.io/blog/Planed to achieve certificates</link>
+            <guid>Planed to achieve certificates</guid>
+            <pubDate>Mon, 20 Sep 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[I have decided to achieve the following certificates in order to enhance my value and keep up-to-date in the industry.]]></description>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://Ye-Myint-Oo.github.io/blog/First Day of My Personal Blog</link>
