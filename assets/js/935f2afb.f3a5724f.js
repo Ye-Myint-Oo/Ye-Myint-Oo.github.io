@@ -1,0 +1,1 @@
+(self.webpackChunkyemyintoo_blog=self.webpackChunkyemyintoo_blog||[]).push([[53],{9054:function(e){"use strict";e.exports=JSON.parse('{"pluginId":"default","version":"current","label":"Next","banner":"none","isLast":true,"docsSidebars":{"tutorialSidebar":[{"type":"link","label":"Docs","href":"/docs/intro"}]},"permalinkToSidebar":{"/docs/intro":"tutorialSidebar"}}')}}]);
