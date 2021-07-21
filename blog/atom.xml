@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Ye-Myint-Oo.github.io/blog</id>
     <title>Ye's blog Blog</title>
-    <updated>2021-09-19T00:00:00.000Z</updated>
+    <updated>2021-09-20T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Ye-Myint-Oo.github.io/blog"/>
     <subtitle>Ye's blog Blog</subtitle>
     <icon>https://Ye-Myint-Oo.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Fix CNAME file problem on Docusaurus build]]></title>
+        <id>CNAME file is deleted after each build</id>
+        <link href="https://Ye-Myint-Oo.github.io/blog/CNAME file is deleted after each build"/>
+        <updated>2021-09-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When make the build and deploy to github, CNAME was removed on git repo]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>First Day of My Personal Blog</id>
