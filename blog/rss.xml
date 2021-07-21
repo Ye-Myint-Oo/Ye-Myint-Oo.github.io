@@ -4,16 +4,9 @@
         <title>Ye's blog Blog</title>
         <link>https://Ye-Myint-Oo.github.io/blog</link>
         <description>Ye's blog Blog</description>
-        <lastBuildDate>Mon, 20 Sep 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Sep 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Fix CNAME file problem on Docusaurus build]]></title>
-            <link>https://Ye-Myint-Oo.github.io/blog/CNAME file is deleted after each build</link>
-            <guid>CNAME file is deleted after each build</guid>
-            <pubDate>Mon, 20 Sep 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[When make the build and deploy to github, CNAME was removed on git repo]]></description>
-        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://Ye-Myint-Oo.github.io/blog/First Day of My Personal Blog</link>

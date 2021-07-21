@@ -1,1 +1,0 @@
-(self.webpackChunkyemyintoo_blog=self.webpackChunkyemyintoo_blog||[]).push([[535],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Fix CNAME file problem on Docusaurus build","permalink":"/blog/CNAME file is deleted after each build"},{"title":"Welcome","permalink":"/blog/First Day of My Personal Blog"}]}')}}]);
