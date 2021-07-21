@@ -8,6 +8,13 @@
     <subtitle>Ye's blog Blog</subtitle>
     <icon>https://Ye-Myint-Oo.github.io/img/favicon.ico</icon>
     <entry>
+        <title type="html"><![CDATA[Tauri]]></title>
+        <id>First Day With Tauri</id>
+        <link href="https://Ye-Myint-Oo.github.io/blog/First Day With Tauri"/>
+        <updated>2021-09-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[You can build native application which is more smaller, faster and more secure using HTML, JavaScript and CSS.]]></summary>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Certificates]]></title>
         <id>Planed to achieve certificates</id>
         <link href="https://Ye-Myint-Oo.github.io/blog/Planed to achieve certificates"/>

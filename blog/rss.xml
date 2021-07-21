@@ -8,6 +8,13 @@
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[Tauri]]></title>
+            <link>https://Ye-Myint-Oo.github.io/blog/First Day With Tauri</link>
+            <guid>First Day With Tauri</guid>
+            <pubDate>Mon, 20 Sep 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[You can build native application which is more smaller, faster and more secure using HTML, JavaScript and CSS.]]></description>
+        </item>
+        <item>
             <title><![CDATA[Certificates]]></title>
             <link>https://Ye-Myint-Oo.github.io/blog/Planed to achieve certificates</link>
             <guid>Planed to achieve certificates</guid>
