@@ -1,0 +1,1 @@
+(self.webpackChunkyemyintoo_blog=self.webpackChunkyemyintoo_blog||[]).push([[322],{6962:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"script","name":"script","count":1,"permalink":"/blog/tags/script"}')}}]);

@@ -4,28 +4,35 @@
         <title>Ye's blog Blog</title>
         <link>https://Ye-Myint-Oo.github.io/blog</link>
         <description>Ye's blog Blog</description>
-        <lastBuildDate>Mon, 20 Sep 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Aug 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Tauri]]></title>
-            <link>https://Ye-Myint-Oo.github.io/blog/First Day With Tauri</link>
-            <guid>First Day With Tauri</guid>
-            <pubDate>Mon, 20 Sep 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[You can build native application which is more smaller, faster and more secure using HTML, JavaScript and CSS.]]></description>
+            <title><![CDATA[Docker Set up]]></title>
+            <link>https://Ye-Myint-Oo.github.io/blog/Dummies guide to set up docker</link>
+            <guid>Dummies guide to set up docker</guid>
+            <pubDate>Fri, 27 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[We are going to install docker CE in centos 8.]]></description>
         </item>
         <item>
             <title><![CDATA[Certificates]]></title>
             <link>https://Ye-Myint-Oo.github.io/blog/Planed to achieve certificates</link>
             <guid>Planed to achieve certificates</guid>
-            <pubDate>Mon, 20 Sep 2021 00:00:00 GMT</pubDate>
+            <pubDate>Tue, 20 Jul 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[I have decided to achieve the following certificates in order to enhance my value and keep up-to-date in the industry.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Tauri]]></title>
+            <link>https://Ye-Myint-Oo.github.io/blog/First Day With Tauri</link>
+            <guid>First Day With Tauri</guid>
+            <pubDate>Tue, 20 Jul 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[You can build native application which is more smaller, faster and more secure using HTML, JavaScript and CSS.]]></description>
         </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://Ye-Myint-Oo.github.io/blog/First Day of My Personal Blog</link>
             <guid>First Day of My Personal Blog</guid>
-            <pubDate>Sun, 19 Sep 2021 00:00:00 GMT</pubDate>
+            <pubDate>Mon, 19 Jul 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Welcome to My blog. This blog is created with Docusaurus 2.]]></description>
         </item>
     </channel>

@@ -1,0 +1,1 @@
+(self.webpackChunkyemyintoo_blog=self.webpackChunkyemyintoo_blog||[]).push([[7],{1542:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"docker","name":"docker","count":1,"permalink":"/blog/tags/docker"}')}}]);
