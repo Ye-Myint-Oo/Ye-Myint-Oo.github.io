@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Ye-Myint-Oo.github.io/blog</id>
-    <title>Hi I am Ye Myint Oo Blog</title>
+    <title>Ye Myint Oo Blog</title>
     <updated>2021-08-27T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Ye-Myint-Oo.github.io/blog"/>
-    <subtitle>Hi I am Ye Myint Oo Blog</subtitle>
+    <subtitle>Ye Myint Oo Blog</subtitle>
     <icon>https://Ye-Myint-Oo.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Docker Set up]]></title>
