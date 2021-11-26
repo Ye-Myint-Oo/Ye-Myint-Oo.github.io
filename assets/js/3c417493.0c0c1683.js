@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyemyintoo_blog=self.webpackChunkyemyintoo_blog||[]).push([[204],{7538:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"learn","name":"learn","count":1,"permalink":"/blog/tags/learn"}')}}]);

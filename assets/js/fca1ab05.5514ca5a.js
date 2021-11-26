@@ -1,1 +1,0 @@
-(self.webpackChunkyemyintoo_blog=self.webpackChunkyemyintoo_blog||[]).push([[456],{2664:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"tauri","name":"tauri","count":1,"permalink":"/blog/tags/tauri"}')}}]);
