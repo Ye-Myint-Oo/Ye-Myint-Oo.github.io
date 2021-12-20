@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyemyintoo_blog=self.webpackChunkyemyintoo_blog||[]).push([[8],{912:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"redis","name":"redis","count":1,"permalink":"/blog/tags/redis"}')}}]);

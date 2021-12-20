@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyemyintoo_blog=self.webpackChunkyemyintoo_blog||[]).push([[974],{2725:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"python","name":"python","count":1,"permalink":"/blog/tags/python"}')}}]);

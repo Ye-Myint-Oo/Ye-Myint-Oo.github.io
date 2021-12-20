@@ -4,11 +4,25 @@
         <title>Ye Myint Oo Blog</title>
         <link>https://Ye-Myint-Oo.github.io/blog</link>
         <description>Ye Myint Oo Blog</description>
-        <lastBuildDate>Fri, 27 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Docker Set up]]></title>
+            <title><![CDATA[Jupyter Set up on Window]]></title>
+            <link>https://Ye-Myint-Oo.github.io/blog/Configure Jupyter on Window</link>
+            <guid>Configure Jupyter on Window</guid>
+            <pubDate>Tue, 21 Dec 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[This project will use Python 3.7 and configure virtual env files location.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Redis Set up on centos 7]]></title>
+            <link>https://Ye-Myint-Oo.github.io/blog/Redis installation on centos 7</link>
+            <guid>Redis installation on centos 7</guid>
+            <pubDate>Tue, 21 Dec 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Start by enabling the Remi repository by running the following commands in your SSH terminal:]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Docker Set up on centos 8]]></title>
             <link>https://Ye-Myint-Oo.github.io/blog/Dummies guide to set up docker</link>
             <guid>Dummies guide to set up docker</guid>
             <pubDate>Fri, 27 Aug 2021 00:00:00 GMT</pubDate>
