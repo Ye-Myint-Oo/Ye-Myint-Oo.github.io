@@ -8,18 +8,18 @@
     <subtitle>Ye Myint Oo Blog</subtitle>
     <icon>https://Ye-Myint-Oo.github.io/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Jupyter Set up on Window]]></title>
-        <id>Configure Jupyter on Window</id>
-        <link href="https://Ye-Myint-Oo.github.io/blog/Configure Jupyter on Window"/>
-        <updated>2021-12-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This project will use Python 3.7 and configure virtual env files location.]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Redis Set up on centos 7]]></title>
         <id>Redis installation on centos 7</id>
         <link href="https://Ye-Myint-Oo.github.io/blog/Redis installation on centos 7"/>
         <updated>2021-12-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Start by enabling the Remi repository by running the following commands in your SSH terminal:]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jupyter Set up on Window]]></title>
+        <id>Configure Jupyter on Window</id>
+        <link href="https://Ye-Myint-Oo.github.io/blog/Configure Jupyter on Window"/>
+        <updated>2021-12-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This project will use Python 3.7 and configure virtual env files location.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Docker Set up on centos 8]]></title>
